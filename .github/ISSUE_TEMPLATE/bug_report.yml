@@ -1,0 +1,28 @@
+name: Bug report
+description: Something does not work as expected
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Steps to reproduce, and what you expected instead.
+    validations:
+      required: true
+  - type: input
+    id: macos
+    attributes:
+      label: macOS version
+      placeholder: "e.g. macOS 15.2, Apple Silicon"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: App / repo version
+      description: Release tag or commit hash.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      description: Remove any personal information before pasting.
