@@ -5,6 +5,10 @@
 **一条命令（或对 AI Agent 说一句话）把微信复制成第二个应用，带独立配色图标，一眼分清账号。**
 
 <p align="center">
+  <img src="docs/demo.gif" width="760" alt="演示：对 AI Agent 说一句话安装微信多开（黑色图标），它复制微信为 WeChat2、改 Bundle ID、重新签名、换图标，Dock 里最终出现一绿一黑两个微信">
+</p>
+
+<p align="center">
   <img src="skills/wechat-multifix/icons/previews/black.png" width="72" alt="black"/> &nbsp;
   <img src="skills/wechat-multifix/icons/previews/cyan.png" width="72" alt="cyan"/> &nbsp;
   <img src="skills/wechat-multifix/icons/previews/purple.png" width="72" alt="purple"/> &nbsp;

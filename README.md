@@ -5,6 +5,10 @@
 **Run WeChat multi-instance on macOS: one command (or one sentence to your AI agent) clones WeChat into a second app with its own colored icon, so you can tell your accounts apart at a glance.**
 
 <p align="center">
+  <img src="docs/demo.gif" width="760" alt="Demo: tell an AI agent to install WeChat multi-open with the black icon; it copies WeChat to WeChat2, sets a new Bundle ID, re-signs, swaps the icon, and the Dock ends with a green and a black WeChat icon">
+</p>
+
+<p align="center">
   <img src="skills/wechat-multifix/icons/previews/black.png" width="72" alt="black"/> &nbsp;
   <img src="skills/wechat-multifix/icons/previews/cyan.png" width="72" alt="cyan"/> &nbsp;
   <img src="skills/wechat-multifix/icons/previews/purple.png" width="72" alt="purple"/> &nbsp;
